@@ -1,0 +1,18 @@
+﻿{
+  "name": "Yudha Waskita",
+
+  "age": 22,
+
+  "address": "Purwokerto, Banyumas",
+
+  "hobbies": 6285387681197,
+
+  "is_married": false,
+
+  "list_school": ["STIKOM Yos Sudarso Purwokerto","2016","2019"],
+
+  "skills": ["Vb.net","Beginner"],
+
+  "interest_in_coding": true
+
+}
